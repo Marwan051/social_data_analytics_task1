@@ -1,0 +1,4 @@
+pandas==3.0.1
+selenium==4.41.0
+tqdm==4.67.3
+undetected_chromedriver==3.5.5
